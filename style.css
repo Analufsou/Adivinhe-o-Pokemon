@@ -1,0 +1,68 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p1/1484227-anime-nuvens-no-ceu-azul-brilhante-vetor.jpg');
+  min-height: 854px;
+  background-size: 300vh;
+  text-align: center;
+}
+
+.container {
+  width: 550px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto; 
+  background-color: #FFFF00;
+  border: 1px solid #FFFFFF;
+  border-radius: 20px;
+}
+
+.page-title {
+  font-size: 42px;
+  color: #000000;
+  margin: 8px 0 10px;
+}
+
+.page-subtitle {
+  font-size: 18px;
+  color: #000000;
+  margin-top: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  border: 4px solid #000;
+  border-radius: 100px;
+}
+
+.name {
+  height: 25px;
+  width: 200px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align:center;
+}
+
+.check {
+  height: 28px;
+  width: 80px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.name:hover {
+    transform: scale(1.05);
+}
+
+.check:hover {
+    transform: scale(1.05);
+}
+
+#logo {
+  color: #ffffff;
+}
